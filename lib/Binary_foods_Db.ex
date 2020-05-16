@@ -1,0 +1,2 @@
+defmodule BinaryFoodsDb do
+end

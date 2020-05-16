@@ -1,0 +1,3 @@
+{"name":"White Rice","inserted_by":"@samiso","inserted_at":1560497990,"ingredients":null,"id":3}
+{"name":"Jollof Rice","inserted_by":"@samiso","inserted_at":1560497106,"ingredients":null,"id":2}
+{"name":"Asaro Yam Porridge","inserted_by":"@samiso","inserted_at":1560496918,"ingredients":[{"name":"Tomatoes","inserted_by":"@samiso","inserted_at":null,"id":3,"category":null},{"name":"Potatoes","inserted_by":"@samiso","inserted_at":null,"id":2,"category":null},{"name":"Yam","inserted_by":"@samiso","inserted_at":null,"id":1,"category":null}],"id":1}

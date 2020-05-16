@@ -1,0 +1,6 @@
+{"id":1,"ordinal":1,"meal_id":1,"ingredient_id":1,"inserted_at":null,"inserted_by":"@samiso"}
+{"id":2,"ordinal":2,"meal_id":1,"ingredient_id":2,"inserted_at":null,"inserted_by":"@samiso"}
+{"id":3,"ordinal":2,"meal_id":1,"ingredient_id":3,"inserted_at":null,"inserted_by":"@samiso"}
+{"id":4,"ordinal":1,"meal_id":2,"ingredient_id":4,"inserted_at":null,"inserted_by":"@samiso"}
+{"id":5,"ordinal":1,"meal_id":3,"ingredient_id":4,"inserted_at":null,"inserted_by":"@samiso"}
+{"id":6,"ordinal":1,"meal_id":2,"ingredient_id":3,"inserted_at":null,"inserted_by":"@samiso"}
